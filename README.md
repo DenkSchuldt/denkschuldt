@@ -4,7 +4,7 @@
   src="https://github.com/DenkSchuldt/denkschuldt/blob/master/contributions.gif?raw=true" 
   alt="Banner showing DenkSchuldt's contributions between 2012 - 2020"/>
 
-I'm a software developer and enjoy creatings things with code. 👨🏻‍💻
+I'm a software developer and enjoy creating things with code. 👨🏻‍💻
 <!--
 **DenkSchuldt/denkschuldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
